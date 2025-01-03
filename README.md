@@ -1,6 +1,7 @@
 # Unity-AI
 This project is completely open source!
 
+*THE AI MIGHT MAKE MISTAKES*
 
 How to use:
 1. Download the files a .cs
